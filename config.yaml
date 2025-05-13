@@ -1,0 +1,4 @@
+model: gpt-4
+max_examples: 5
+output_format: markdown
+log_to_file: false

@@ -1,0 +1,10 @@
+[
+    {
+        "prompt": "Explain LoRA",
+        "score": {
+            "factuality": 9,
+            "coherence": 8,
+            "tone": 10
+        }
+    }
+]
