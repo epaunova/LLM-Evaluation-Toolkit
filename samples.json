@@ -1,0 +1,12 @@
+[
+    {
+        "prompt": "Summarize the benefits of using LoRA for LLM fine-tuning.",
+        "response": "LoRA is a method for reducing the number of trainable parameters...",
+        "expected_tone": "informative"
+    },
+    {
+        "prompt": "What makes DeciLM models different?",
+        "response": "They are faster, smaller, and better tuned...",
+        "expected_tone": "persuasive"
+    }
+]
